@@ -10,7 +10,7 @@ APOD stands for Astronomy Picture of the Day.
 
 Application users can get their API key from https://www.api.nasa.gov
 * This application should be used for Education Purpose Only !
-
+* This application runs on Python 3
 # Libraries required
 * requests
 * json
@@ -23,7 +23,7 @@ Application users can get their API key from https://www.api.nasa.gov
 
 * Install the required libraries using the command 
                                    
-        pip install -r requirements.txt
+        pip3 install -r requirements.txt
 
 * Run the main python file apod.py using the following command,
     
