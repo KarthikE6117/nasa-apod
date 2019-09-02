@@ -10,8 +10,9 @@ from playsound import playsound
 #contact info : karthikelango6117@gmail.com
 #You can get your api keys for the NASA's domain.
 #This program uses Text-to-speech method.
+#For NASA's API key goto : api.nasa.gov
 
-api_key = "xs7URtFIaGZjj5bocZZV4I5XaVgwd0mC2cyOMKML"
+api_key = "PASTE_YOUR_API_KEY_HERE"
 print("\t\t\t******* Welcome To NASA APOD Information Service !!! *******\n")
 print("APOD stands for Astronomy Picture Of the Day.\n")
 earth_date = input(str('Enter the Date (Syntax: "YYYY-MM-DD"): '))
