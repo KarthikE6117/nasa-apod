@@ -1,5 +1,5 @@
 # nasa-apod
-Hi..Iam Karthik. This is a simple application developed in python.
+Hi..Iam Karthik. Iam a student of Sri Manakula Vinayagar Engineering College. This is a simple application developed in python.
 This application uses NASA's APOD live services to get information about the space incidents and data.
 The day to day NASA data can be viewed through this application.
 
@@ -36,6 +36,6 @@ Application users can get their API key from https://www.api.nasa.gov
         python3 apod.py
         
  # Developer's info
- mail: karthikelango6117@gmail.com
- 
- Country: India
+ Name: Karthik.
+ Email: karthikelango6117@gmail.com
+ Country: India.
